@@ -54,6 +54,8 @@ public class Pagelaunch extends baselibrary{
 		select.click();
 		to.click();
 		delhi.click();
+		to.click();
+		delhi.click();
 		
 		//Applicationutility.scroll(from);
 		
